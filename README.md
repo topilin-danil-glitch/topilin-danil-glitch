@@ -16,8 +16,13 @@
 
 ### Проекты
 
-**[credit-limit-activation-analysis](https://github.com/topilin-danil-glitch/business-analysis-portfolio/tree/main/credit-limit-activation-analysis)** — полный цикл бизнес-анализа: проблема → анализ данных → гипотеза → требования → оценка эффекта.
-Внутри: FRD, user stories с критериями приёмки, схемы процесса AS-IS / TO-BE, OpenAPI-спецификация, SQL-запросы, executive summary с метриками.
+**[credit-limit-activation-analysis](https://github.com/topilin-danil-glitch/business-analysis-portfolio/tree/main/credit-limit-activation-analysis)** — полный цикл бизнес-анализа: проблема → анализ данных → гипотеза → требования → оценка эффекта. FRD, user stories с критериями приёмки, BPMN AS-IS / TO-BE, OpenAPI, SQL, executive summary с метриками.
+
+**[ai-assistant-spec](https://github.com/topilin-danil-glitch/business-analysis-portfolio/tree/main/ai-assistant-spec)** — требования к AI-ассистенту: 10 проверяемых правил поведения, 6 сценариев диалога, рубрика качества из 6 критериев, автотесты 12 диалогов с отчётом.
+
+**[requirements-linter](https://github.com/topilin-danil-glitch/business-analysis-portfolio/tree/main/requirements-linter)** — Python-линтер пользовательских историй: INVEST, критерии приёмки, Given/When/Then, размытые формулировки.
+
+**[bpmn-trace-matrix](https://github.com/topilin-danil-glitch/business-analysis-portfolio/tree/main/bpmn-trace-matrix)** — парсер BPMN, строящий матрицу «шаг процесса → требование → тест-кейс» и находящий пробелы покрытия.
 
 **[geo-distance-calculator](https://github.com/topilin-danil-glitch/business-analysis-portfolio/tree/main/geo-distance-calculator)** — расчётная логика на формуле гаверсинуса, валидация ввода, юнит-тесты. [Демо](https://topilin-danil-glitch-credit-l-geo-distance-calculatorapp-utdicj.streamlit.app/)
 
