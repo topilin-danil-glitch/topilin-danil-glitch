@@ -1,4 +1,4 @@
-## Данила Топилин
+﻿## Данила Топилин
 
 Бизнес-аналитик с 3,5 года опыта в IT-продуктах Яндекса: корпоративная BI-платформа **Yandex DataLens** и **AI-ассистент** для бизнеса.
 
@@ -16,12 +16,12 @@
 
 ### Проекты
 
-**[credit-limit-activation-analysis](https://github.com/topilin-danil-glitch/credit-limit-activation-analysis)** — полный цикл бизнес-анализа: проблема → анализ данных → гипотеза → требования → оценка эффекта.
+**[credit-limit-activation-analysis](https://github.com/topilin-danil-glitch/business-analysis-portfolio/tree/main/credit-limit-activation-analysis)** — полный цикл бизнес-анализа: проблема → анализ данных → гипотеза → требования → оценка эффекта.
 Внутри: FRD, user stories с критериями приёмки, схемы процесса AS-IS / TO-BE, OpenAPI-спецификация, SQL-запросы, executive summary с метриками.
 
-**[geo-distance-calculator](https://github.com/topilin-danil-glitch/credit-limit-activation-analysis/tree/main/geo-distance-calculator)** — расчётная логика на формуле гаверсинуса, валидация ввода, юнит-тесты. [Демо](https://topilin-danil-glitch-credit-l-geo-distance-calculatorapp-utdicj.streamlit.app/)
+**[geo-distance-calculator](https://github.com/topilin-danil-glitch/business-analysis-portfolio/tree/main/geo-distance-calculator)** — расчётная логика на формуле гаверсинуса, валидация ввода, юнит-тесты. [Демо](https://topilin-danil-glitch-credit-l-geo-distance-calculatorapp-utdicj.streamlit.app/)
 
-**[powerbi-telegram-bot](https://github.com/topilin-danil-glitch/credit-limit-activation-analysis/tree/main/powerbi-telegram-bot)** — доставка графиков из Power BI Desktop в Telegram через локальный Analysis Services.
+**[powerbi-telegram-bot](https://github.com/topilin-danil-glitch/business-analysis-portfolio/tree/main/powerbi-telegram-bot)** — доставка графиков из Power BI Desktop в Telegram через локальный Analysis Services.
 
 ---
 
